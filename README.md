@@ -1,2 +1,2 @@
 ## Tic-tac-toe
-### Using java
+### Using java and azax
