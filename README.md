@@ -1,5 +1,5 @@
 ## Tic-tac-toe
-Tic Tac Toe Game in Java
+-- Tic Tac Toe Game in Java
 
 A simple Tic Tac Toe console game implemented in Java. Two players can play the game in turns, and the game detects wins, draws, and invalid moves.
 
